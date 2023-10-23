@@ -1,0 +1,44 @@
+.container {
+    margin: 50px auto;
+    width: 450px;
+    padding: 15px;
+    background-color: black;
+    border-radius: 25px;
+}
+.btm {
+    background-color: rgb(243, 221, 155);
+}
+.btn {
+    color: rgb(243, 241, 235);
+    background-color: rgb(220, 160, 6);
+}
+input {
+    width: 100%;
+    font-size: 45px;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    padding: 5px 5px;
+    border-radius: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+button {
+    font-size: 30px;
+    width: 70px;
+    height: 60px;
+    border-radius: 10px;
+    font-weight: bolder;
+    border: none;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
